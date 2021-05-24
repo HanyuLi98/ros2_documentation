@@ -7,7 +7,7 @@ Understanding ROS 2 topics
 
 **Tutorial level:** Beginner
 
-**Time:** 20 minutes
+**Time:** 2minutes
 
 .. contents:: Contents
    :depth: 2
